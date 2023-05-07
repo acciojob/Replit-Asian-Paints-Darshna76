@@ -1,1 +1,13 @@
 /*  your css code here. If applicable */
+#cont {
+	display:grid;
+	grid-template-columns:10px 10px 10px;
+	gap:10px;
+}
+#cont div {
+	padding:8px;
+/* 	background-color:red; */
+	margin:5px;
+	
+	
+}
