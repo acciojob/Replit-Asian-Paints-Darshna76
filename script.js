@@ -1,4 +1,4 @@
-const gridContainer =  document.getElementById("grid-container");
+const gridcontainer =  document.getElementById(".grid-container");
 const gridItems = document.querySelectorAll('.grid-item');
 const blockIdInput = document.getElementById('block_id');
 const colorInput = document.getElementById('colour_id');
